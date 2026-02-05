@@ -1,4 +1,4 @@
-package com.mvieiradev.cadastro_usuario.infrastructure.entitys;
+package com.mvieiradev.cadastro_usuario.infrastructure.entities;
 
 import jakarta.persistence.*;
 import lombok.*;

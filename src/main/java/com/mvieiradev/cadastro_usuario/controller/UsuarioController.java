@@ -1,7 +1,7 @@
 package com.mvieiradev.cadastro_usuario.controller;
 
 import com.mvieiradev.cadastro_usuario.business.UsuarioService;
-import com.mvieiradev.cadastro_usuario.infrastructure.entitys.Usuario;
+import com.mvieiradev.cadastro_usuario.infrastructure.entities.Usuario;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

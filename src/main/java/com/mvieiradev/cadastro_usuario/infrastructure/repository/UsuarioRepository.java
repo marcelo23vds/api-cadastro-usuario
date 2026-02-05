@@ -1,6 +1,6 @@
 package com.mvieiradev.cadastro_usuario.infrastructure.repository;
 
-import com.mvieiradev.cadastro_usuario.infrastructure.entitys.Usuario;
+import com.mvieiradev.cadastro_usuario.infrastructure.entities.Usuario;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.transaction.annotation.Transactional;
 
